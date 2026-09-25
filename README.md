@@ -1,5 +1,3 @@
-<img src="banner.svg" alt="Maciej Kodroń – building products with AI" width="100%">
-
 ### Hi, I'm Maciek
 
 Applied Computer Science student at Wrocław University of Science and Technology. I design products and build them with AI – from a sketch to an app that actually runs. None of my projects has a paying customer yet, but they all run, and I can explain every decision behind them.
