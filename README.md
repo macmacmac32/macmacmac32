@@ -7,7 +7,7 @@ Applied Computer Science student at Wrocław University of Science and Technolog
 **Cuzca** – a climbing gym platform for the Polish market  
 A mobile app for climbers and a web admin panel for gym owners. Streaks, rewards as a chalk bag, rank tiers, a competition mode designed around the judge.  
 Expo / React Native · Next.js · Firebase  
-→ [Try me](cuzca.pl)
+→ [Try me](https://cuzca.pl)
 
 
 ### Tools
